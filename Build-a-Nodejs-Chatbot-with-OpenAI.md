@@ -32,8 +32,17 @@ Create a file named .env, generate an [API key](https://platform.openai.com/api
 ```bash
 OPENAI_API_KEY=YOURKEY
 ```
+## Step 4: Update package.json
 
-## Step 4: Create the OpenAI Module
+Open your package.json file and add the following lines:
+
+```javascript
+"type": "module",
+"scripts": {
+  "start": "node chatbot.js"
+}
+```
+## Step 5: Create the OpenAI Module
 
 Create a new JavaScript file (e.g., **`openai.js`**) in your project directory.
 
@@ -54,7 +63,7 @@ export default openai;
 - **openai**: A JavaScript tool that connects our chatbot to OpenAI's language models for understanding user input and generating responses.
 - **dotenv**: A Node.js module that loads environment variables from a .env file into process.env, simplifying the management of configuration settings such as API keys or database credentials. It allows you to keep sensitive information separate from your codebase and easily switch between different environments by modifying the .env file.
 
-## Step 5: Write the Chatbot Logic
+## Step 6: Write the Chatbot Logic
 
 Create a new JavaScript file (e.g., **`chatbot.js`**) in your project directory.
 Write the main logic for your chatbot. This includes prompting the user for input, sending the input to the OpenAI API, and displaying the response.
@@ -210,7 +219,7 @@ async function main() {
 main();
 ```
 
-## Step 6: Run Your Chatbot
+## Step 7: Run Your Chatbot
 
 Save your changes and run your chatbot script:
 
