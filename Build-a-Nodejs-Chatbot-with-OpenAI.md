@@ -215,7 +215,7 @@ main();
 Save your changes and run your chatbot script:
 
 ```bash
-npm chatbot.js
+node chatbot.js
 ```
 
 Your chatbot should start running, allowing you to interact with it in the terminal.
