@@ -51,8 +51,8 @@ const openai = new OpenAI({
 export default openai;
 ```
 
-1. **openai**: A JavaScript tool that connects our chatbot to OpenAI's language models for understanding user input and generating responses.
-2. **dotenv**: A Node.js module that loads environment variables from a .env file into process.env, simplifying the management of configuration settings such as API keys or database credentials. It allows you to keep sensitive information separate from your codebase and easily switch between different environments by modifying the .env file.
+- **openai**: A JavaScript tool that connects our chatbot to OpenAI's language models for understanding user input and generating responses.
+- **dotenv**: A Node.js module that loads environment variables from a .env file into process.env, simplifying the management of configuration settings such as API keys or database credentials. It allows you to keep sensitive information separate from your codebase and easily switch between different environments by modifying the .env file.
 
 ## Step 5: Write the Chatbot Logic
 
@@ -151,19 +151,6 @@ Write the main logic for your chatbot. This includes prompting the user for inpu
     }
     ```
     
-6. **OpenAI API Call and Response Processing:**
-     Use the **`openai.completions.create`** method to send the user input to the OpenAI API and retrieve a response.
-    
-    ```jsx
-    const completion = await openai.completions.create({
-        model: 'text-davinci-002',
-        prompt: userInput,
-        max_tokens: 150,
-        temperature: 0.7
-    })
-    ```
-    
-
 Putting it all together, here's how the complete chatbot logic might look:
 
 ```jsx
