@@ -36,7 +36,7 @@ OPENAI_API_KEY=YOURKEY
 
 Open your package.json file and add the following lines:
 
-```javascript
+```jsx
 "type": "module",
 "scripts": {
   "start": "node chatbot.js"
