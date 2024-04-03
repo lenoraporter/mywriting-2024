@@ -54,26 +54,9 @@ export default openai;
 1. **openai**: A JavaScript tool that connects our chatbot to OpenAI's language models for understanding user input and generating responses.
 2. **dotenv**: A Node.js module that loads environment variables from a .env file into process.env, simplifying the management of configuration settings such as API keys or database credentials. It allows you to keep sensitive information separate from your codebase and easily switch between different environments by modifying the .env file.
 
-## Step 5: Create the Chatbot Script
+## Step 5: Write the Chatbot Logic
 
 Create a new JavaScript file (e.g., **`chatbot.js`**) in your project directory.
-
-Import the required modules at the top of your file: 
-
-**Initialize OpenAI API and Required Libraries**:
-
-```jsx
-import openai from 'openai';
-import readlineSync from 'readline-sync';
-import colors from 'colors';
-```
-
-1. **openai**: A JavaScript tool that connects our chatbot to OpenAI's language models for understanding user input and generating responses.
-2. **readline-sync**: A Node.js module that enables real-time interaction with users by handling input/output operations directly in the terminal.
-3. **colors**: A module that adds color and style to our chatbot's messages in the terminal, enhancing readability and user experience.
-
-## Step 6: Write the Chatbot Logic
-
 Write the main logic for your chatbot. This includes prompting the user for input, sending the input to the OpenAI API, and displaying the response.
 
 1. **Initialize OpenAI API and Required Libraries**:
@@ -85,6 +68,10 @@ Write the main logic for your chatbot. This includes prompting the user for inpu
     import readlineSync from 'readline-sync';
     import colors from 'colors';
     ```
+    	
+	- **openai**: A JavaScript tool that connects our chatbot to OpenAI's language models for understanding user input and generating responses.
+	- **readline-sync**: A Node.js module that enables real-time interaction with users by handling input/output operations directly in the terminal.
+	- **colors**: A module that adds color and style to our chatbot's messages in the terminal, enhancing readability and user experience.
     
 2. **Create a Main Function for the Chatbot**:
     
