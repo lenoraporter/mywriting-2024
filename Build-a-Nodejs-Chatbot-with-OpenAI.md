@@ -49,7 +49,7 @@ Create a new JavaScript file (e.g., **`openai.js`**) in your project directory.
 Import the necessary dependencies (OpenAI and dotenv), loads environment variables from a .env file using dotenv, initializes the OpenAI instance with the API key stored in the environment variables, and exports the initialized OpenAI instance for use in other parts of the project.
 
 ```jsx
-import { OpenAI } from "openai";
+import OpenAI from "openai";
 import dotenv from "dotenv";
 dotenv.config();
 
@@ -73,9 +73,9 @@ Write the main logic for your chatbot. This includes prompting the user for inpu
     Import the necessary modules (**`openai`**, **`readline-sync`**, **`colors`**) at the beginning of the script.
     
     ```jsx
-    import openai from 'openai';
-    import readlineSync from 'readline-sync';
-    import colors from 'colors';
+    import openai from "./openai.js";
+    import readlineSync from "readline-sync";
+    import colors from "colors";
     ```
     	
 	- **openai**: A JavaScript tool that connects our chatbot to OpenAI's language models for understanding user input and generating responses.
