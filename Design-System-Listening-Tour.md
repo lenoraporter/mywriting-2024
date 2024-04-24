@@ -6,21 +6,27 @@ In the fast-evolving field of technology, design systems are critical for mainta
 ## The Goals of a Listening Tour
 Your tour should aim to achieve the following:
 
-**Gain Deep Insights into User Pain Points and Opportunities**: Understand the specific challenges and areas for potential enhancement in the design system that could improve user experience and productivity.
-**Comprehensively Understand Current Workflows**: Identify how different teams use the design system and the challenges they face, which tools they use, and the integration points within their workflows.
-**Identify Priority Projects and Initiatives**: Focus on understanding what users see as critical improvements or innovations that should be tackled.
+- **Gain Deep Insights into User Pain Points and Opportunities**: Understand the specific challenges and areas for potential enhancement in the design system that could improve user experience and productivity.
+
+- **Comprehensively Understand Current Workflows**: Identify how different teams use the design system and the challenges they face, which tools they use, and the integration points within their workflows.
+
+- **Identify Priority Projects and Initiatives**: Focus on understanding what users see as critical improvements or innovations that should be tackled.
 Establish Strong Relationships and Trust: Use this opportunity to build rapport and trust across teams, ensuring they feel comfortable providing honest feedback.
-**Explore and Understand Team Culture**: Learn about the cultural aspects that influence how teams use and interact with the design system.
+
+- **Explore and Understand Team Culture**: Learn about the cultural aspects that influence how teams use and interact with the design system.
 
 
 ## Planning the Listening Tour
 ### Identify the Participants
 Begin by identifying who will provide the most insightful feedback. Key participants should include:
 
-**Key Stakeholders**: These are your allies in the organization who can push necessary changes and understand the strategic implications.
-**UI Engineers & Backend Engineers**: Their technical perspective is crucial as they are directly affected by the system’s usability and integration capabilities.
-**Designers & PMs**: They interact with the system in different capacities, influencing user experience and project direction.
-**High Priority Teams**: Teams that frequently use the design system or have significant projects dependent on it.
+- **Key Stakeholders**: These are your allies in the organization who can push necessary changes and understand the strategic implications.
+  
+- **UI Engineers & Backend Engineers**: Their technical perspective is crucial as they are directly affected by the system’s usability and integration capabilities.
+  
+- **Designers & PMs**: They interact with the system in different capacities, influencing user experience and project direction.
+  
+- **High Priority Teams**: Teams that frequently use the design system or have significant projects dependent on it.
 
 ### Invite Participants
 Leverage internal communication tools like Slack to announce the listening tour. A simple post inviting participants to react with an emoji if they're interested in discussing the design system for 35 minutes can be effective. This casual approach helps in lowering barriers to participation.
