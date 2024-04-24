@@ -20,13 +20,13 @@ Establish Strong Relationships and Trust: Use this opportunity to build rapport 
 ### Identify the Participants
 Begin by identifying who will provide the most insightful feedback. Key participants should include:
 
-- **Key Stakeholders******: These are senior leaders or influential figures within the organization who can provide strategic direction and facilitate the necessary support and resources.
+- **Key Stakeholders**: These are senior leaders or influential figures within the organization who can provide strategic direction and facilitate the necessary support and resources.
 - **UI Engineers**: As primary users, they offer detailed technical feedback on the usability and efficiency of the design system.
 - **Designers**: Designers interact with a specific part of the design system, primarily the Figma component library. Their insights are crucial for understanding how the visual and functional elements of the design system support or hinder their creative processes. They can also provide feedback on the aesthetics, usability, and how well the system integrates with other design tools.
 - **Product Managers (PMs)**: Their insights bridge technical and business perspectives, reflecting on how the design system affects product development.
 - **Backend Engineers**: They can discuss how the system integrates with backend systems and overall system performance.
-- **High Priority Teams******: Teams that frequently use the design system or whose work significantly depends on it.
-- **Accessibility Specialists******: Essential for ensuring the design system is inclusive and compliant with accessibility standards.
+- **High Priority Teams**: Teams that frequently use the design system or whose work significantly depends on it.
+- **Accessibility Specialists**: Essential for ensuring the design system is inclusive and compliant with accessibility standards.
 - **Representatives from Varied Departments**: Including marketing, sales, customer support, and human resources to gain diverse perspectives on the design system's impact across the organization.
 
 ### Invite Participants
