@@ -13,7 +13,7 @@ Your tour should aim to achieve the following:
 - **Identify Priority Projects and Initiatives**: Focus on understanding what users see as critical improvements or innovations that should be tackled.
 Establish Strong Relationships and Trust: Use this opportunity to build rapport and trust across teams, ensuring they feel comfortable providing honest feedback.
 
-- **Explore and Understand Team Culture**: Learn about the cultural aspects that influence how teams use and interact with the design system.
+- **Explore and Understand Team Culture**: Delve into the existing team culture surrounding design systems. Identify shared values, norms, and practices that influence how teams collaborate and interact with the design system.
 
 
 ## Planning the Listening Tour
