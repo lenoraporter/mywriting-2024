@@ -20,16 +20,22 @@ Establish Strong Relationships and Trust: Use this opportunity to build rapport 
 ### Identify the Participants
 Begin by identifying who will provide the most insightful feedback. Key participants should include:
 
-- **Key Stakeholders**: These are your allies in the organization who can push necessary changes and understand the strategic implications.
-  
-- **UI Engineers & Backend Engineers**: Their technical perspective is crucial as they are directly affected by the system’s usability and integration capabilities.
-  
-- **Designers & PMs**: They interact with the system in different capacities, influencing user experience and project direction.
-  
-- **High Priority Teams**: Teams that frequently use the design system or have significant projects dependent on it.
+- **Key Stakeholders******: These are senior leaders or influential figures within the organization who can provide strategic direction and facilitate the necessary support and resources.
+- **UI Engineers**: As primary users, they offer detailed technical feedback on the usability and efficiency of the design system.
+- **Designers**: Designers interact with a specific part of the design system, primarily the Figma component library. Their insights are crucial for understanding how the visual and functional elements of the design system support or hinder their creative processes. They can also provide feedback on the aesthetics, usability, and how well the system integrates with other design tools.
+- **Product Managers (PMs)**: Their insights bridge technical and business perspectives, reflecting on how the design system affects product development.
+- **Backend Engineers**: They can discuss how the system integrates with backend systems and overall system performance.
+- **High Priority Teams******: Teams that frequently use the design system or whose work significantly depends on it.
+- **Accessibility Specialists******: Essential for ensuring the design system is inclusive and compliant with accessibility standards.
+- **Representatives from Varied Departments**: Including marketing, sales, customer support, and human resources to gain diverse perspectives on the design system's impact across the organization.
 
 ### Invite Participants
-Leverage internal communication tools like Slack to announce the listening tour. A simple post inviting participants to react with an emoji if they're interested in discussing the design system for 35 minutes can be effective. This casual approach helps in lowering barriers to participation.
+Utilizing a combination of communication methods will ensure effective outreach to all potential participants:
+
+- **Email Invitations**: Provide detailed information and allow for direct scheduling via calendar links.
+- **Personal Invitations**: Use for key stakeholders to emphasize the importance of their feedback and secure high-level engagement.
+- **Company Newsletter or Design System Newsletter**: Broaden awareness and encourage participation across different departments.
+- **Slack Announcements**: A more informal and interactive approach, inviting participants to express their interest by reacting to a Slack post. This can encourage spontaneous participation and make the process feel more inclusive and less formal.
 
 ## Draft Your Interview Script
 Here’s an example of how you might structure your conversations:
